@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\paymentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\paymentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\controller\\seatselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\controller\\seatselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\seatselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\seatselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\ticketcategoryselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\ticketcategoryselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\movieselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\movieselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\ticketselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\ticketselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|c:\\users\\pablo\\downloads\\cine3.0\\cine2.0\\cine2.0\\cine2.0\\controller\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D245479-B34D-448F-BB6C-8F6B8A8435AD}|Cine2.0\\CineApp.csproj|solutionrelative:cine2.0\\controller\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeatSelectionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\Controller\\SeatSelectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cine2.0\\Controller\\SeatSelectionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\Controller\\SeatSelectionWindow.xaml.cs",
+              "RelativeToolTip": "Cine2.0\\Controller\\SeatSelectionWindow.xaml.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAowOIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:30:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeatSelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\SeatSelectionWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\SeatSelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\SeatSelectionWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\SeatSelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:47:59.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\PaymentWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\PaymentWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\PaymentWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\PaymentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:47:51.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieSelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\MovieSelectionWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\MovieSelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\MovieSelectionWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\MovieSelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:45:31.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketSelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\TicketSelectionWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\TicketSelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\TicketSelectionWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\TicketSelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:48:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\MainWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:19:48.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketCategorySelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\TicketCategorySelectionWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\TicketCategorySelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\TicketCategorySelectionWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\TicketCategorySelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:48:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\RegisterWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:20:28.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Cine2.0\\View\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "Cine2.0\\View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T18:19:52.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\Controller\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Cine2.0\\Controller\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pablo\\Downloads\\Cine3.0\\Cine2.0\\Cine2.0\\Cine2.0\\Controller\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Cine2.0\\Controller\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:24:26.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

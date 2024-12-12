@@ -1,0 +1,9 @@
+﻿<Application x:Class="CineApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <!-- Aquí debes apuntar a MainWindow.xaml -->
+    <Application.Resources>
+        <!-- Recursos globales aquí -->
+    </Application.Resources>
+</Application>
